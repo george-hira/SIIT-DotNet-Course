@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\bin\Debug\net6.0\homeWork1.exe
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\bin\Debug\net6.0\homeWork1.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\bin\Debug\net6.0\homeWork1.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\bin\Debug\net6.0\homeWork1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\bin\Debug\net6.0\homeWork1.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\refint\homeWork1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\homeWork1.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\homeWork1\obj\Debug\net6.0\ref\homeWork1.dll
