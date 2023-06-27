@@ -1,11 +1,7 @@
-# SIIT-DotNet-Course
-
-FirstProjectEver
+.NET Course Homework and Tasks
 
 Hi!
 
-A beginner's exploration into .NET syntax: This project represents my initial foray into learning the fundamentals of .NET syntax through self-study.
+This repository contains my homework assignments and tasks from the .NET course I am currently undertaking. Here, I will document my learning journey and showcase the projects I have completed as part of the course.
 
-Applying newfound knowledge: After investing several hours in learning about .NET syntax, I created this project as a practical application to solidify my understanding.
-
-A stepping stone towards proficiency: With a foundation of self-learned .NET syntax, this project serves as a starting point on my journey to becoming proficient in .NET development.
+The .NET course I am taking is designed to provide a comprehensive understanding of the .NET framework and its various components. Throughout the course, I will be learning the fundamentals of .NET programming, including topics such as C#, ASP.NET, .NET Core, and more.
