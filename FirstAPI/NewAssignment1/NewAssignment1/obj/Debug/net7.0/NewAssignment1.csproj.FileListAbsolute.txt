@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\bin\Debug\net7.0\NewAssignment1.exe
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\bin\Debug\net7.0\NewAssignment1.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\bin\Debug\net7.0\NewAssignment1.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\bin\Debug\net7.0\NewAssignment1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\bin\Debug\net7.0\NewAssignment1.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\refint\NewAssignment1.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\NewAssignment1.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\NewAssignment1\NewAssignment1\obj\Debug\net7.0\ref\NewAssignment1.dll

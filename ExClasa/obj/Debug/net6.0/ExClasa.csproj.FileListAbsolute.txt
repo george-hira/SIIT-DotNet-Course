@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\bin\Debug\net6.0\ExClasa.exe
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\bin\Debug\net6.0\ExClasa.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\bin\Debug\net6.0\ExClasa.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\bin\Debug\net6.0\ExClasa.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\bin\Debug\net6.0\ExClasa.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\refint\ExClasa.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ExClasa.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ExClasa\obj\Debug\net6.0\ref\ExClasa.dll

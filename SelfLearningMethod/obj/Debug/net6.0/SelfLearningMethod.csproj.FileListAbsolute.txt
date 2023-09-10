@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\bin\Debug\net6.0\SelfLearningMethod.exe
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\bin\Debug\net6.0\SelfLearningMethod.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\bin\Debug\net6.0\SelfLearningMethod.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\bin\Debug\net6.0\SelfLearningMethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\bin\Debug\net6.0\SelfLearningMethod.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\refint\SelfLearningMethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\SelfLearningMethod.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\SelfLearningMethod\obj\Debug\net6.0\ref\SelfLearningMethod.dll

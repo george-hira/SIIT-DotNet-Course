@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\bin\Debug\net6.0\Lists.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\bin\Debug\net6.0\Lists.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\bin\Debug\net6.0\Lists.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\bin\Debug\net6.0\Lists.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\refint\Lists.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Lists\obj\Debug\net6.0\ref\Lists.dll

@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\bin\Debug\net6.0\Recap2.cs.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\bin\Debug\net6.0\Recap2.cs.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\bin\Debug\net6.0\Recap2.cs.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\bin\Debug\net6.0\Recap2.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\bin\Debug\net6.0\Recap2.cs.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\refint\Recap2.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\Recap2.cs.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recap2.cs\obj\Debug\net6.0\ref\Recap2.cs.dll

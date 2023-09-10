@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\bin\Debug\net6.0\PointsStudentTest.exe
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\bin\Debug\net6.0\PointsStudentTest.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\bin\Debug\net6.0\PointsStudentTest.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\bin\Debug\net6.0\PointsStudentTest.dll
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\bin\Debug\net6.0\PointsStudentTest.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.dll
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\refint\PointsStudentTest.dll
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\PointsStudentTest.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\PointsStudentTest\obj\Debug\net6.0\ref\PointsStudentTest.dll

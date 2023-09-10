@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\bin\Debug\net6.0\Dictionary.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

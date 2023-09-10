@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\bin\Debug\net6.0\HW2Updates.exe
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\bin\Debug\net6.0\HW2Updates.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\bin\Debug\net6.0\HW2Updates.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\bin\Debug\net6.0\HW2Updates.dll
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\bin\Debug\net6.0\HW2Updates.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.dll
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\refint\HW2Updates.dll
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\HW2Updates.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\HW2Updates\obj\Debug\net6.0\ref\HW2Updates.dll

@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\bin\Debug\net6.0\Stacks.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\bin\Debug\net6.0\Stacks.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\bin\Debug\net6.0\Stacks.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\bin\Debug\net6.0\Stacks.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\bin\Debug\net6.0\Stacks.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\refint\Stacks.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\Stacks.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Stacks\obj\Debug\net6.0\ref\Stacks.dll

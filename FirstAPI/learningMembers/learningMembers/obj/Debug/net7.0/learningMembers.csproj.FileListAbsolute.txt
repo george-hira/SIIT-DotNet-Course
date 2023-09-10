@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\bin\Debug\net7.0\learningMembers.exe
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\bin\Debug\net7.0\learningMembers.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\bin\Debug\net7.0\learningMembers.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\bin\Debug\net7.0\learningMembers.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\bin\Debug\net7.0\learningMembers.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\refint\learningMembers.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\learningMembers.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningMembers\learningMembers\obj\Debug\net7.0\ref\learningMembers.dll

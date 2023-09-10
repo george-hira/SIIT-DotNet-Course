@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\HomeWork2\\HomeWork2.csproj",
+      "projectUniqueName": "D:\\DotnetCourse\\SIIT-DotNet-Course\\homeWork2\\HomeWork2.csproj",
       "projectName": "HomeWork2",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\HomeWork2\\HomeWork2.csproj",
+      "projectPath": "D:\\DotnetCourse\\SIIT-DotNet-Course\\homeWork2\\HomeWork2.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\source\\repos\\HomeWork2\\obj\\",
+      "outputPath": "D:\\DotnetCourse\\SIIT-DotNet-Course\\homeWork2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

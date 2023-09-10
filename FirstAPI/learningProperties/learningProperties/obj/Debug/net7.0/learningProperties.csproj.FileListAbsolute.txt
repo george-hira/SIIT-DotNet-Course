@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\bin\Debug\net7.0\learningProperties.exe
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\bin\Debug\net7.0\learningProperties.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\bin\Debug\net7.0\learningProperties.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\bin\Debug\net7.0\learningProperties.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\bin\Debug\net7.0\learningProperties.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\refint\learningProperties.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\learningProperties.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\learningProperties\learningProperties\obj\Debug\net7.0\ref\learningProperties.dll

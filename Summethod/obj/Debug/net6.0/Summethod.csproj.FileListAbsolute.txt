@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\bin\Debug\net6.0\Summethod.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\bin\Debug\net6.0\Summethod.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\bin\Debug\net6.0\Summethod.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\bin\Debug\net6.0\Summethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\bin\Debug\net6.0\Summethod.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\refint\Summethod.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\Summethod.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Summethod\obj\Debug\net6.0\ref\Summethod.dll

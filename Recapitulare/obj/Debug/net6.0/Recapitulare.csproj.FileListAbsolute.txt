@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\bin\Debug\net6.0\Recapitulare.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\bin\Debug\net6.0\Recapitulare.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\bin\Debug\net6.0\Recapitulare.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\bin\Debug\net6.0\Recapitulare.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\bin\Debug\net6.0\Recapitulare.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\refint\Recapitulare.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\Recapitulare.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Recapitulare\obj\Debug\net6.0\ref\Recapitulare.dll

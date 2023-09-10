@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\bin\Release\net6.0\Assignment2.exe
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\bin\Release\net6.0\Assignment2.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\bin\Release\net6.0\Assignment2.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\bin\Release\net6.0\Assignment2.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\bin\Release\net6.0\Assignment2.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\refint\Assignment2.dll
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\Assignment2.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\Assignment2\obj\Release\net6.0\ref\Assignment2.dll

@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\bin\Debug\net6.0\DateTime.cs.exe
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\bin\Debug\net6.0\DateTime.cs.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\bin\Debug\net6.0\DateTime.cs.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\bin\Debug\net6.0\DateTime.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\bin\Debug\net6.0\DateTime.cs.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\refint\DateTime.cs.dll
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\DateTime.cs.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\DateTime.cs\obj\Debug\net6.0\ref\DateTime.cs.dll

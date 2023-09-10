@@ -1,0 +1,15 @@
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\bin\Debug\net6.0\ArraysCourse.exe
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\bin\Debug\net6.0\ArraysCourse.deps.json
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\bin\Debug\net6.0\ArraysCourse.runtimeconfig.json
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\bin\Debug\net6.0\ArraysCourse.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\bin\Debug\net6.0\ArraysCourse.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.csproj.AssemblyReference.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.AssemblyInfoInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.AssemblyInfo.cs
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.csproj.CoreCompileInputs.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\refint\ArraysCourse.dll
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ArraysCourse.genruntimeconfig.cache
+D:\DotnetCourse\SIIT-DotNet-Course\ArraysCourse\obj\Debug\net6.0\ref\ArraysCourse.dll
