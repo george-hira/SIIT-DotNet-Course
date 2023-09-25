@@ -1,77 +1,131 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MyStore.Data;
+using MyStore.Domain;
+using MyStore.Helpers;
+using MyStore.Models;
+using MyStore.Services;
+using System.Linq;
+
 namespace MyStore.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly StoreContext context;
-        public CategoriesController(StoreContext context)
+        private readonly ICategoryService categoryService;
+
+        public CategoriesController( ICategoryService categoryService)
         {
-            this.context = context;
+            this.categoryService = categoryService;
         }
+
         [HttpGet]
-        public IEnumerable<Category> Get()
-        {
-            var allCategories = context.Categories.ToList();
-            return allCategories;
+        public IEnumerable<CategoryModel> Get(string? text, int pag=1)
+        {   // implementam paginarea unor rezultate 
+            //2. adaugam un filtru de cautare in description dupa un nr de caractere
+            var pageSize = 2;
+            // le ia pe toate 
+
+            var allCategories = categoryService.GetCategories(pag, text);
+
+            // 1 2 -> 2(pagesize)*((3-paginaCurenta)-1))
+            // filtrez si iau doar cele de afisat pe pagina curenta 
+           // var currentPage = allCategories.Skip(pageSize*(pag-1)).Take(pageSize).ToList();
+
+            var modelsToReturn = new List<CategoryModel>();
+            foreach (var category in allCategories)
+            {
+                modelsToReturn.Add(category.ToCategoryModel());
+            }
+
+            return modelsToReturn;
         }
+
+
+        // [HttpGet("mycoolCategory/{id:alpha}")]
         [HttpGet("{id}")]
-        public Category? GetById(int id)
+        public ActionResult<CategoryModel> GetById(int id, CategoryModel model)
         {
-            var category = context.Categories.Find(id);
-            return category;
+
+            var categoryFromDb = categoryService.GetCategory(id);
+
+            if (categoryFromDb == null)
+            {
+                return NotFound();
+            }
+            
+            var categoryToUpdate = new Category();
+            categoryToUpdate = model.ToCategory();
+            categoryService.Update(categoryToUpdate);
+
+            return Ok(categoryToUpdate.ToCategoryModel());
         }
+
+
         [HttpPut("{id}")]
-        public Category Update(int id, Category category)
+        public ActionResult<CategoryModel> Update(int id, CategoryModel model)
         {
-            var cat = context.Categories.Find(id);
-            if (cat != null)
+            //verificam in db daca avem ceva cu ID-ul respectiv
+            // updatam
+            // returnam 404
+
+            var existingCategory = categoryService.GetCategory(id);
+            if (existingCategory == null)
             {
-                TryUpdateModelAsync(cat);
-                context.Categories.Update(category);
-                context.SaveChanges();
+                return NotFound();
             }
-            return category;
+
+            TryUpdateModelAsync(existingCategory);
+
+            var categoryToUpdate = new Category();
+            categoryToUpdate = model.ToCategory();
+            categoryService.Update(categoryToUpdate);
+
+            return Ok(categoryToUpdate.ToCategoryModel());
         }
+
         [HttpDelete("{id}")]
-        public Category? Delete(int id)
+        public IActionResult Babu(int id)
         {
-            var category = context.Categories.Find(id);
-            if (category != null)
+            var category = categoryService.GetCategory(id);
+
+            if (category == null)
             {
-                context.Remove(category);
-                context.SaveChanges();
-                return null;
+                return NotFound();
             }
-            return category;
+
+            //exista?
+            //stergem
+            categoryService.Remove(category);
+
+            return NoContent();
         }
+
         [HttpPost]
-        public Category Insert(Category category)
+        public IActionResult Create(CategoryModel model)
         {
-            context.Add(category);
-            context.SaveChanges();
-            return category;
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
-           
+            // TODO: business rules
+
+            if (categoryService.IsDuplicate(model.Categoryname))
+            {
+                ModelState.AddModelError("Categoryname", $"You can't have the same duplicate items with value{model.Categoryname}, on categoryName");
+                return Conflict(ModelState);
+            }
+            //we need Category
+            var categoryToSave = new Category();
+            categoryToSave = model.ToCategory();
+
+            categoryService.InsertNew(categoryToSave);
+
+            model.Categoryid = categoryToSave.Categoryid;
+            // return Ok(categoryToAdd);
+            return CreatedAtAction(nameof(GetById), new { id = categoryToSave.Categoryid }, model);
         }
-
-
-
-       
-
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-

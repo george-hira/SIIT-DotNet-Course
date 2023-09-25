@@ -1,6 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Diagnostics;
+using MyStore.Data;
+using MyStore.Domain;
+using MyStore.Helpers;
+using MyStore.Models;
+using MyStore.Services;
 using System.Security.Cryptography.Xml;
 
 namespace MyStore.Controllers
@@ -10,32 +15,50 @@ namespace MyStore.Controllers
     public class ShipersController : ControllerBase
     {
 
-        private readonly StoreContext context;
+        private readonly IShipperService shipperService;
 
-        public ShipersController(StoreContext context)
+        public ShipersController( IShipperService shipperService)
         {
-            this.context = context;
+            
+            this.shipperService = shipperService;
         }
 
         [HttpGet]
 
-        public List<Shipper> GetAll()
+        public IEnumerable <ShipperModel> Get(string? text, int page=1)
         {
-            var allShippers = context.Shippers.ToList();
-            return allShippers;
+            // implementam paginarea 
+            // adaugam un filtru 
+
+            var pageSize = 2;
+
+            var allShippers = shipperService.GetShippers(page, text);
+            var modelsToReturn = new List<ShipperModel>();
+            foreach ( var shipper in allShippers)
+            {
+                modelsToReturn.Add(shipper.ToShiperModel());
+            }
+            return modelsToReturn;
         }
 
         [HttpGet("{id}")]
 
-        public Shipper? GetById(int id) 
+        public ActionResult <ShipperModel> GetShippersById(int id) 
         {
-            var shipper = context.Shippers.Find(id);
-            return shipper;
+            var shipperFromDb = shipperService.GetShipper(id);
+
+            if (shipperFromDb == null)
+            {
+                return NotFound();
+            }
+            var model = new ShipperModel();
+            model = shipperFromDb.ToShiperModel();
+            return Ok(model);
         }
 
         //[HttpGet]
 
-        //public List<Shipper> OrderedList()
+        //public IEnumerable<Shipper> OrderedList()
         //{
         //    var orderdList = context.Shippers.OrderBy(x => x.Companyname).ToList();
         //    return orderdList;
@@ -44,38 +67,62 @@ namespace MyStore.Controllers
 
         [HttpPost]
 
-        public void ADDNewShipper(Shipper x)
+        public IActionResult Create( ShipperModel model)
         {
-            context.Shippers.Add(x);
-            context.SaveChanges();
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            if (shipperService.IsDuplicate(model.Companyname))
+            {
+                ModelState.AddModelError("Companyname", $"You can't have the duplicate items with the value{model.Companyname} on companyName");
+                return Conflict(ModelState);
+            }
+            var shipperToSave = new Shipper();
+            shipperToSave = model.ToShipper();
+
+            shipperService.InsertNew( shipperToSave );
+
+            model.Shipperid = shipperToSave.Shipperid;
+
+
+            return CreatedAtAction(nameof(GetShippersById), new { id = shipperToSave.Shipperid }, model);
         }
 
-        [HttpPut ("{id}")]
+        [HttpPut ("/{id:maxlength(10)?}")]
 
-        public Shipper UpdateShipper(int id, Shipper x)
+        public ActionResult<ShipperModel> Update(int id, ShipperModel model)
         {
 
-            var shipperToUpdate = context.Shippers.Find(id);
-            if (shipperToUpdate != null)
+            var existingShipper = shipperService.GetShipper(id);
+            if (existingShipper == null)
             {
-                shipperToUpdate.Companyname = x.Companyname;
-                context.SaveChanges();
+                return NotFound();
             }
-            return shipperToUpdate;
+            TryUpdateModelAsync(existingShipper);
+
+            var shipperToUpdate = new Shipper();
+            shipperToUpdate = model.ToShipper();
+            shipperService.Update( shipperToUpdate );
+
+            return Ok(shipperToUpdate.ToShiperModel());
         }
 
         [HttpDelete("{id}")]
 
-        public Shipper DeleteShipper(int id)
+        public IActionResult WhatEverIWant(int id)
         {
-            var shipperToDelete = context.Shippers.Find(id);
+            var shipperToDelete = shipperService.GetShipper(id);
 
-            if (shipperToDelete != null)
+            if (shipperToDelete == null)
             {
-                context.Shippers.Remove(shipperToDelete);
-                context.SaveChanges();
+                return NotFound();
             }
-            return shipperToDelete;
+
+            shipperService.Remove(shipperToDelete );
+
+            return NoContent();
         }
 
 

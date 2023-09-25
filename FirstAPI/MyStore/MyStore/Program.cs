@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using MyStore;
+using MyStore.Data;
+using MyStore.Domain;
+using MyStore.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +10,21 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<StoreContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("StoreDb")));
+
+// repository
+// repository
+// repository
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+builder.Services.AddScoped<IShipperRepository, ShipperRepository>();
+// services 
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+builder.Services.AddScoped<IShipperService, ShipperService>();
+
+builder.Services.AddScoped<ISupplierRepository, SupplierRepository>();
+
+builder.Services.AddScoped<ISupplierService, SupplierService>();    
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
