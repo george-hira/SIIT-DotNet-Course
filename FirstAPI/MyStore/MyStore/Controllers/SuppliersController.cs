@@ -22,7 +22,7 @@ namespace MyStore.Controllers
         [HttpGet]
         public IEnumerable<SupplierModel> Get(string? text, int pag = 1) 
         {
-            var pageSize = 2;
+            // var pageSize = 2;
 
             var allSuppliers = supplierService.GetSuppliers(pag, text);
 

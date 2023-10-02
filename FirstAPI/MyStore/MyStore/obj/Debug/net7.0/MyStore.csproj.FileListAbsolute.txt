@@ -75,3 +75,9 @@ D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\MyS
 D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\MyStore.Domain.pdb
 D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\MyStore.Services.pdb
 D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\MyStore.Data.pdb
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\Humanizer.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\System.CodeDom.dll
+D:\DotnetCourse\SIIT-DotNet-Course\FirstAPI\MyStore\MyStore\bin\Debug\net7.0\FluentAssertions.dll
